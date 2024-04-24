@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "forward-cacao-420716",
+  "private_key_id": "6d4b68655e6dbd39a2e5ae75516d830a6f79959a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZ5d1Et+O9JoC6\nSLox0toPc9iAcFX2foYPGrPb4zRD+kJDfbsTQRVU6Qalqr9bPjPrYKor+TLlnUt5\nexPjLza5w/V3bPXf8XtSiDStDf1O/uafeJ9zjX6T7viTEIEJvAPuHc8Wyf5BcI54\n/Jy4K2MlyOJVedaJnkOw8yKikN06yjEwP0jwIon0RpFY+wQoTfuCUjthncrPdqn7\na2xYFoNPQAfH7/R7v9ro5b6odcEHJHEPB7c9iKyvfnziUtqga9Zs6VLciph33sVn\nY91Zs8qUg6wwWUV0YTApFy433NDWpyus+/Q3y9Xk1YuyHBWJx5ItJRJuh8BptjpK\nzr5/Vd4XAgMBAAECggEAIpBkvK1MQcwm9y+kWdJQVU4gXuBb/it2cmf94zHJKEdJ\noJzZaj6gytw3OPf7WEPFJ2UjcxLZ4oYMUHFbCxgsg1ZGiBb5td0nZGbg5ckRji9j\nnodZ0HsD5bezLlxzjrsiatVZEHY3W30rEnMxw49DClZutuHRVEEuVMyWh8pfVXeA\nnGoL6faLOedP5MpLLktVEvG/3+CtKrzHPwkdJLr7MqUjDoxbVIQlHHPoXOPXlTbj\n1RYg6C9TE06IMuwnwfT1g8W3FjAzUl8zP7HPynoRRne7xXrT3AEbOhzCECkgBefh\nuc/+Fig+bjPfY20ZYToKs9+gB4Bgbt0b5J4MSxbAAQKBgQDK6hFYV1Ej3ozyz6t9\n4qmOFFCYS4NyCyb/mDp+bGICNz1ej5l3D6ODuj5KLHwENO0NjkSyZvK3KC4uvnGH\nl/lzb9BOO0ocQ70bg5xAfs4kphbry5ftd6dg3SIjTukQtuRlOUT9I0fbQn+nIgNK\n3oI1/onPXzjdL7ysZtHnPA0+FwKBgQDCKPvBvc3HII0djUpOqHUdDeGV+piHSNfH\nil7BZg8e0LrsFQ8GvPo9iQrkHN6vHWnKkj3uhKnDvYP4MiuuyzZ6j2Y5zObsIbie\nnwsoHJdILTGzK+xvtqbvVHHq6MHvaegbG0dgcPNrfHeAkXrRsJ7YfNUKnnVpwM8w\nvb4blABgAQKBgQCliYj28dz/Dzsbh3HXNAexIj+RzuEAM7rv/2eQ5aibOCd3sly3\ndemmuFTCvEG8SNUvHuZKSJQv+babacBCpyfZFdnxSIswPc7T2G2rbAeOfHTsjl52\nWwwQiLal6WVXvmzba3otrQ+c/0YWujfHZ3kAxZP1ujAwuhYI66TIKQSApwKBgAxf\nMCuYPJSDrnpDloiMk2nWiJlV7oIwUg+U8ZTBPBVql36TmPGE+S0Snm8Kp+Xgqe0O\nhIO+UFL4sIAQMlhg+oe0u37TX6OMQodY+w0DRWCEALa6BcbYjKqTZu7hBfqLdQ7F\nHjc2+0vOEo9OtdTGvFhvG+QhVLn4Xztr28FGHQABAoGBAL9QXphiyUBi5wBJF/HS\n0w0hPVs17bBAnx1qFxhhomKicVoGbI3yJ2py2agnkI/zfn0sGFz1TJ8mLd9Tn/sj\nxLWqwHkQ88H5ica31QbSTnzdRyXOAQkl2u1hcZ7e5fMtkNWpMqP3ysgHjfKyxXq/\nk60+3YhzfkSpkpXTbBiD5q4Y\n-----END PRIVATE KEY-----\n",
+  "client_email": "socialmediaanalysis@forward-cacao-420716.iam.gserviceaccount.com",
+  "client_id": "102634712336993811274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/socialmediaanalysis%40forward-cacao-420716.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
